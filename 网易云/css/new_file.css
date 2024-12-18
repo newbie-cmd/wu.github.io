@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.zuo{
+	height: 930px;
+	width: 50%;
+
+	float: left;
+	position: relative;
+	background: linear-gradient(#671c42,#2b0a1c);
+}
+.cp{
+	width: 400px;
+	height: 400px;
+	background-color: yellow;
+	position: absolute;
+	left: 25%;
+	top: 20%;
+	border-radius: 50%;
+}
+.cp img{
+	width: 400px;
+	height: 400px;
+	border-radius: 50%;
+}
+.you{
+	height: 930px;
+	width: 50%;
+	background: aqua;
+	float: right;
+	background: linear-gradient(#671c42,#2b0a1c);
+}
+.biaoti{
+	margin-left: 100px;
+	font-size: 50px;
+	color: white;
+	margin-top: 70px;
+}
+.zj{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color: #6e4d5e ;
+}
+.zj a{
+	font-size: 20px;
+	color: #6e4d5e ;
+	text-decoration: none;
+}
+.gc{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color: #6e4d5e ;
+}
